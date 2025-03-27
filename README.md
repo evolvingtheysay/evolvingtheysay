@@ -1,4 +1,4 @@
-<h1>The perfectionist manifesto</h1>
+<h1=centre>The perfectionist manifesto</h1>
 
 <p>The most common view of perfectionism is that it is counter-productive, even though perfectionism is one of the most powerful tools for humanity, if it weren't for it, we would still be hunter-gatherers, but from what place this distorted view comes from? It comes from a bad definition.</p>
 
